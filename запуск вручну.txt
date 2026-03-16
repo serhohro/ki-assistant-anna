@@ -1,0 +1,2 @@
+cd /d C:\Users\sergo\AI_Anna  REM Поставьте папку, с которой будет запускаться ИИ Анна
+streamlit run anna.py
