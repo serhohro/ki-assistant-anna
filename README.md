@@ -27,5 +27,5 @@
 ### Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/serhohro/anna-pro.git](https://github.com/serhohro/anna-pro.git)
-   cd anna-pro
+   git clone [https://github.com/serhohro/ki-assistant-anna] (https://github.com/serhohro/ki-assistant-anna)
+   cd https://github.com/serhohro/ki-assistant-anna
